@@ -1,0 +1,28 @@
+{
+  "name": "watson-translator",
+  "version": "1.0.0",
+  "description": "React translation app using IBM Watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micposso/react-translation-watson.git"
+  },
+  "keywords": [
+    "react",
+    "imb",
+    "watson",
+    "translator"
+  ],
+  "author": "Michael Posso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micposso/react-translation-watson/issues"
+  },
+  "homepage": "https://github.com/micposso/react-translation-watson#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
